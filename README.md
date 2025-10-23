@@ -22,9 +22,8 @@
 ---
 
 ### 🧠 Featured Projects
-- 🎯 [MISO Queueing System](https://github.com/paulgodes/miso-queueing-system)
-- 💼 [Portfolio Website](https://github.com/paulgodes/portfolio)
-- 📈 [Data Visualization Project](https://github.com/paulgodes/data-dashboard)
+- 🎯 [MISO Queueing System]
+- 💼 [Portfolio Website](adrian-dev.vercel.app)
 
 ---
 
